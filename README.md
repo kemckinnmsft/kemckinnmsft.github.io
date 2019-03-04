@@ -1,1 +1,0 @@
-# kemckinnmsft.github.io
