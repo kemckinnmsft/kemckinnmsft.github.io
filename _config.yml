@@ -24,7 +24,7 @@ github_username:  kemckinnmsft
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: midnight
 plugins:
   - jekyll-feed
 
