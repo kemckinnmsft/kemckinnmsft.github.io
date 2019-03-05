@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Adventures in Information Protection
 
 You can use the [editor on GitHub](https://github.com/kemckinnmsft/kemckinnmsft.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
